@@ -1,0 +1,103 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+}
+@font-face {
+    font-family: sans-serif;
+    src: url(fuentes/gill-sans-ultra-bold-2.ttf)
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+@font-face {
+    font-family: 'Franklin Gothic Minion', 'Arial Narrow', Arial, sans-serif;
+    src: url(fuentes/eras-medium-itc.ttf)
+}
+p{
+    font-family: 'Franklin Gothic Minion', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+.row{
+    margin-top: 50px;
+}
+.imagen1
+{
+    height: 180px;
+    width: 200px;
+}
+.imagen2
+{
+    height: 170px;
+    width: 120px;
+}
+.imagen3
+{
+    height: 270px;
+    width: 650px;
+}
+.imagen4
+{
+    height: 150x;
+    width: 150px;
+}
+.imagen5
+{
+    height: 50px;
+    width: 50px;
+    display: block;
+    margin: auto;
+}
+.imagen6
+{
+    height: 150px;
+    width: 160px;
+}
+.imagen7
+{
+    width: 250px;
+    height: 150px;
+}
+.imagen8
+{
+    width: 178px;
+    height: 105px;
+}
+.imagen9
+{
+    height: 170px;
+}
+.imagen10
+{
+    width: 15px;
+    height: 15px;  
+    border: 1px solid #0016b0;
+}
+.imagen11
+{
+    width: 50px;
+    height: 50px;
+}
+.imagen12
+{
+    width: 70px;
+    height: 50px;
+}
+.imagen13
+{
+    width: 80px;
+    height: 70px;
+}
+.imagen14
+{
+    width: 60px;
+    height: 60px;
+}
